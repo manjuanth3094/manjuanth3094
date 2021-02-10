@@ -13,7 +13,7 @@
 ### Sparetime: :parrot:
 
 -  I like to visit cinemas, walking in nature, reading books and travelling.
--  Enjoying with family and learning new things related to web development is what keeps me alive and kicking.
+-  My family and learning new things related to web development is what keeps me alive and kicking.
 ---
 
 <h3>🛠 Tech Stack</h3>
