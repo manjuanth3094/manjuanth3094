@@ -4,13 +4,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔌 &nbsp; My GOAL: work as a professional UX Engineer/Front-end Developer in a vibrant Tech company.
+- 🔌 &nbsp; My GOAL: work as a professional Full Stack Developer in a vibrant Tech company.
 - 🔭 &nbsp; Currently working on **Front-End Development (Javascript, React, Redux)** .
 - 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🕸️ &nbsp; quick learner and ready to face new challenges..
+- 🕸️ &nbsp; Ability to work under immense pressure which is balanced by a sense of responsibility & ownership.
 
-### Sparetime: :parrot:
+### Sparetime:-
 
 -  I like to visit cinemas, walking in nature, reading books and travelling.
 -  My family and learning new things related to web development is what keeps me alive and kicking.
