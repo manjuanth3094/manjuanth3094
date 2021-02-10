@@ -10,7 +10,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🕸️ &nbsp; Ability to work under immense pressure which is balanced by a sense of responsibility & ownership.
 
-### Sparetime:-
+   ### Sparetime:- 
 
 -  I like to visit cinemas, walking in nature, reading books and travelling.
 -  My family and learning new things related to web development is what keeps me alive and kicking.
