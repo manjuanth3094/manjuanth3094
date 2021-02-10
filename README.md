@@ -6,7 +6,7 @@
 
 - 🔌 &nbsp; My GOAL: work as a professional **Full Stack Developer** in a vibrant Tech company.
 - 🔭 &nbsp; Currently working on **Front-End Development (Javascript, React, Redux)** .
-- 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
+- 🌱 &nbsp; Pursuing Back End Development with NodeJS, ExpressJS and MongoDB to build **Full Stack Applications**.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🕸️ &nbsp; Ability to work under immense pressure which is balanced by a sense of responsibility & ownership.
 
