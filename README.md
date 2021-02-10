@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔌 &nbsp; My GOAL: work as a professional Full Stack Developer in a vibrant Tech company.
+- 🔌 &nbsp; My GOAL: work as a professional **Full Stack Developer** in a vibrant Tech company.
 - 🔭 &nbsp; Currently working on **Front-End Development (Javascript, React, Redux)** .
 - 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
