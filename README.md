@@ -1,17 +1,19 @@
 <h2> Hi 👋, I’m Manjunath !</h2>
 
+# A Passionate Web Developer living in Bangalore.
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔌 &nbsp; My GOAL: work as a professional UX Engineer/Front-end Developer in a vibrant Tech company.
-- 🕸️ &nbsp; quick learner and ready to face new challenges..
 - 🔭 &nbsp; Currently working on **Front-End Development (Javascript, React, Redux)** .
 - 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🕸️ &nbsp; quick learner and ready to face new challenges..
 
 ### Sparetime: :parrot:
 
 -  I like to visit cinemas, walking in nature, reading books and travelling.
--  Enjoying with family and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
+-  Enjoying with family and learning new things related to web development is what keeps me alive and kicking.
 ---
 
 <h3>🛠 Tech Stack</h3>
@@ -43,6 +45,8 @@
 <br/>
 <br/>
 <br />
+
+### ![Manjunath's github stats](https://github-readme-stats.vercel.app/api?username=manjuanth3094&show_icons=true&theme=radical&bg_color=#ffffff)
 
 
 ## Projects made with ❤️ 👇
